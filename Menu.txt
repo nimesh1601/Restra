@@ -1,0 +1,34 @@
+Indian
+	Paneer Mandi
+	Chicken Mandi
+	Sabji Mandi
+	Dal 
+	Kofta
+	
+Chinese
+	Chinese Veg Starter
+	Chinese Non-Veg Starter (Dry)
+	Chinese Non-Veg (Gravy)
+	
+Hot Breads
+	Hot Breads
+	Parantha
+	
+Tandoori
+	Tandoori Veg Starter
+	Tandoori Starter (Non Veg)
+	
+Beverages
+	
+Rice
+	Veg Rice
+	Non Veg Rice
+
+Mutton and Egg
+	Mutton Gravy
+	Ande Ka Fundey
+	
+Curd/Raita
+
+Papad and Salad
+
